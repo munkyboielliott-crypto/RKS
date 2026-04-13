@@ -1,0 +1,8 @@
+{
+  "packages": {
+    "express": {
+      "v": "5.2.1",
+      "p": "rks_packages/express"
+    }
+  }
+}
